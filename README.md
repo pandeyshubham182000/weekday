@@ -9,6 +9,7 @@ Filter App:
 ![2](https://github.com/pandeyshubham182000/weekday/assets/95274812/aa86539e-6c8e-44c9-8131-517b2ca0e099)
 
 Mobile View: 
+![3](https://github.com/pandeyshubham182000/weekday/assets/95274812/6cce2314-8a40-4672-bbd3-eebc4787b3c7)
 
 
 Descriptions
