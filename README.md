@@ -1,10 +1,6 @@
 Weekday Job Application
 Thanks for giving a chance!! Welcome....
 
-Screenshots of Website:
-1.png, 2.png, 3.png & 4.png
-
-
 Descriptions
 This is an online SQL view editor built for the frontend task provided by Weekday Jobs.
 Tools and Technology used
@@ -24,7 +20,6 @@ Features
 
    
 Avilable Scripts:
-
 Here in this project, you can run:
 •	npm install: Execute this command to set up your projects.
 •	npm start: Execute to run this project
