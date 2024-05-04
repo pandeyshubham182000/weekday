@@ -1,0 +1,13 @@
+.searchBox{
+    border:none;
+    box-shadow: inset 2px 2px 20px black;
+    border-radius: 20px;
+    width:14.8%;
+    padding:8px; 
+    margin:2%
+}
+@media only screen and (max-width: 600px) {
+    .searchBox{
+        width:16%
+    }
+  }
