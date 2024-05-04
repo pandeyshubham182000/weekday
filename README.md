@@ -1,6 +1,10 @@
 Weekday Job Application
 Thanks for giving a chance!! Welcome....
 
+ScreenShots: 
+Desktop App:
+![1](https://github.com/pandeyshubham182000/weekday/assets/95274812/ae600959-3d14-41d0-b310-3a0557f62bc1)
+
 Descriptions
 This is an online SQL view editor built for the frontend task provided by Weekday Jobs.
 Tools and Technology used
