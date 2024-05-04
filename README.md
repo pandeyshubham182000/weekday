@@ -2,6 +2,7 @@ Weekday Job Application
 Thanks for giving a chance!! Welcome....
 
 Screenshots of Website:
+1.png, 2.png, 3.png & 4.png
 
 
 Descriptions
@@ -22,7 +23,8 @@ Features
 4.	Filtering: The user has the option of filtering based on Company Name, Minimum Salary, Minimum Experience, Skill and Location.
 
    
-Avilable Scripts
+Avilable Scripts:
+
 Here in this project, you can run:
 •	npm install: Execute this command to set up your projects.
 •	npm start: Execute to run this project
